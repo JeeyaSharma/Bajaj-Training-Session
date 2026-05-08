@@ -1,4 +1,4 @@
-package trees;
+
 
 public class maxDepthOfBT {
     public int maxDepth(TreeNode root) {

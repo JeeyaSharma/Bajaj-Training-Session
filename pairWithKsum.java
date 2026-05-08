@@ -1,4 +1,4 @@
-package arrays;
+
 
 public class pairWithKsum {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package linkedList;
+
 
 public class removeNthNodeFromLast {
     public ListNode removeNthFromEnd(ListNode head, int n) {

@@ -1,4 +1,4 @@
-package trees;
+
 
 public class invertBT {
     public TreeNode invertTree(TreeNode root) {

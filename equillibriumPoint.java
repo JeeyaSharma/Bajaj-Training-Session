@@ -1,4 +1,4 @@
-package arrays;
+
 
 public class equillibriumPoint {
     public static int findEquilibrium(int arr[]) {
